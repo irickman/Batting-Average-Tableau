@@ -3,5 +3,7 @@
 *.gsheet
 *.gdoc
 *.pkl
+*.json
+*.DS_Store
 
 **/*.ipynb_checkpoints/
