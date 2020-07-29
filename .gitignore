@@ -1,0 +1,7 @@
+*.csv
+*.ini
+*.gsheet
+*.gdoc
+*.pkl
+
+**/*.ipynb_checkpoints/
